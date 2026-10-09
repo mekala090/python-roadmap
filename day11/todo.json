@@ -1,0 +1,10 @@
+[
+    {
+        "task": "Learn file handling",
+        "done": false
+    },
+    {
+        "task": "Practice csv module",
+        "done": true
+    }
+]
